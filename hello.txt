@@ -5,4 +5,8 @@ Change : Login Feature
 
 Change : In order to fix bug01
 
-Change : From teamMate from Remote server.
+
+Change 01: From teamMate from Remote server.
+
+Change 02: In order to fix bug02
+
