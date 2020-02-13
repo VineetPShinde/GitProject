@@ -4,3 +4,5 @@ Welcome to git.
 Change : Login Feature
 
 Change : In order to fix bug01
+
+Change : In order to fix bug02
