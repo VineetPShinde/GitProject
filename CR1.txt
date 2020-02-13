@@ -1,9 +1,12 @@
 This file is the feature change done for Change Request.
 
-Change : in progress 
+1.Change : in progress 
 
-Change : Done complete
+2.Change : Done complete
 
-Change : By remote repo for testig pull/fetch
+3.Change : By remote repo for testig pull/fetch
 
-Change  : By remote repo to test the rebase with conflict
+4.Change  : By remote repo to test the rebase with conflict
+
+5.Change: By local repo in order to test rebase with conflict
+
